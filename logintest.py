@@ -4,7 +4,7 @@ import time
 
 # Nextcloud credentials
 username = "erikadmin"
-password = "r2d2r2d2"
+password = "x2djnasudjnap3"
 
 # Open Microsoft Edge
 driver = webdriver.Chrome("chromedriver")
